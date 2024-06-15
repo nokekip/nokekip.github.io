@@ -80,3 +80,10 @@ section.projects .card {
     max-width: 22rem;
     text-align: left;
 }
+
+#confMsg {
+    color: #61b752;
+    /* margin-top: -20px; */
+    margin-bottom: -60px;
+    display: block;
+}
